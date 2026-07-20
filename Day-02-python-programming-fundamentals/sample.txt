@@ -1,0 +1,3 @@
+Hello, this is Day 2 file handling practice.
+Learning Python fundamentals.
+Appended line via Python.
